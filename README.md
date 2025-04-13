@@ -51,10 +51,10 @@ Here are some of the projects I've worked on:
 
 ## 🌍 Let's Connect!
 - 📧 **Email**: elharthamza8@gmail.com
-- 🌐 **Portfolio**: [hamza.dev](https://www.yourportfolio.com)
+- 🌐 **Portfolio**: [hamza.dev](https://www.hamzaelhart.dev)
 - 💼 **Resume**: [Download my Resume](https://www.yourlink.com)
 - 🐦 **Twitter**: [@hamza_elhart](https://twitter.com/hamza_dev)
-- 🔗 **LinkedIn**: [Hamza Elhart](https://www.linkedin.com/in/hamzaelhart)
+- 🔗 **LinkedIn**: [Hamza Elhart](www.linkedin.com/in/HamzaElhart)
 
 ## 💡 Fun Facts
 - 🧠 I’m passionate about continuous learning and stay up to date with new technologies.
