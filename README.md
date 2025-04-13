@@ -31,6 +31,17 @@ I'm a passionate **Full Stack Developer** 👨‍💻 who loves building respons
 - **REST APIs** 🌍
 - **Figma** 📏
 
+## 💻 Languages I Use
+
+Here’s a breakdown of the programming languages I use, with an approximate percentage of how much I use each one:
+
+- **JavaScript** 🟦 60%
+- **TypeScript** 🟩 20%
+- **Python** 🐍 5%
+- **Java** ☕ 5%
+- **PHP** 🔵 5%
+- **Dart** 🟠 5%
+
 ## 💼 Projects
 
 Here are some of the projects I've worked on:
